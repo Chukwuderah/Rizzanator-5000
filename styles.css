@@ -54,7 +54,7 @@ section.rizz {
   z-index: 4;
   left: 50%;
   top: 50%;
-  transform: translate(-50%, 0.5cm);
+  transform: translate(-50%, 0.1cm);
   text-align: center;
 }
 
@@ -78,7 +78,8 @@ button {
   border: 0;
   padding: 0px 16px;
   color: #fff;
-  width: 115px;
+  font-size: 0.9rem;
+  width: 135px;
   height: 40px;
   cursor: pointer;
 }
